@@ -10,7 +10,7 @@ LabVIEW 2011
 
 ### Built Availability ###
 
-This IP is built and available for NI VeriStand [here](http://www.ni.com/example/31244/en/) but will be taken down soon.
+This IP does not have a built version. It needs to be downloaded and built.
 
 ### Quality, Limitations ###
 
