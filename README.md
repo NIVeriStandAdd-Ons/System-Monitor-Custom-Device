@@ -1,3 +1,7 @@
+## This repository has been archived, and is not recommended for new development. Active development of this feature is now at:
+https://github.com/ni/niveristand-system-monitor-custom-device
+
+
 ## System Monitor Custom Device ##
 
 **System Monitor Custom Device** is a Custom Device that tracks memory resources and CPU usage on an RT Target running the VeriStand Engine.  Set the update rate (Hz) in the System Explorer to determine how often the custom device checks the CPU usage and memory resource values and sends them to the VeriStand Engine.
